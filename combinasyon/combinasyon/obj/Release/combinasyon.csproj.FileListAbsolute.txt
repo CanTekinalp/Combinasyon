@@ -1,0 +1,14 @@
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\combinasyon.exe.config
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\combinasyon.exe
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\combinasyon.pdb
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\ExcelDataReader.dll
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\ExcelDataReader.pdb
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\ExcelDataReader.xml
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Users\omerb\source\repos\combinasyon\combinasyon\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\omerb\source\repos\combinasyon\combinasyon\obj\Release\combinasyon.csproj.CoreCompileInputs.cache
+C:\Users\omerb\source\repos\combinasyon\combinasyon\obj\Release\combinasyon.csproj.CopyComplete
+C:\Users\omerb\source\repos\combinasyon\combinasyon\obj\Release\combinasyon.exe
+C:\Users\omerb\source\repos\combinasyon\combinasyon\obj\Release\combinasyon.pdb
+C:\Users\omerb\source\repos\combinasyon\combinasyon\obj\Release\combinasyon.csprojAssemblyReference.cache
